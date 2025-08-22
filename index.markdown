@@ -1,6 +1,7 @@
 ---
 layout: default
 avatar: /social/assets/img/gorgichatlogo-smaller.png
+mahlas: GorgiChat
 
 reddit:
  - gorgichat
