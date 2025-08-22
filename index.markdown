@@ -12,8 +12,8 @@ discord:
    id: GyA6dt87de
 telegram:
  - gorgichat
-site:
- - https://gorgichat.slack.com
+slack:
+ - gorgichat
 ---
 
 GorgiChat is a new generation open-source and minimal chatting and social-net application 🐦.
