@@ -1,15 +1,11 @@
 ---
 layout: default
-avatar: /jekyll-linktree/assets/img/orangecat.jpeg
+avatar: /social/assets/img/gorgichatlogo-smaller.png
 
-github: 
- - lazypwny751
- - Aelita-Schaeffer
-instagram: 
- - pinguftw
-discord:
- - name: lazypwny751
-   id: 612185954538487808
+reddit:
+ - gorgichat
+github:
+ - gorgichat
 ---
 
-I'm an orange cat, pls follow my social media accounts 🐱.
+GorgiChat is a new generation open-source and minimal chatting and social-net application 🐦.
