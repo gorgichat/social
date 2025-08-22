@@ -7,6 +7,8 @@ reddit:
  - gorgichat
 github:
  - gorgichat
+instagram:
+ - gorgichat
 discord:
  - name: GorgiChat
    id: GyA6dt87de
