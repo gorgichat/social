@@ -66,7 +66,7 @@
           <img src="assets/svg/discord.svg" alt="Discord Icon" />
         </div>
         <div class="separator"></div>
-        <a href="https://discord.com/users/{{ i.id }}" target="_blank">{{ i.name }}</a>
+        <a href="https://discord.gg/{{ i.id }}" target="_blank">{{ i.name }}</a>
       </div>
     {% endfor %}
   {% endif %}
@@ -154,4 +154,17 @@
       </div>
     {% endfor %}
   {% endif %}
+
+  {% if page.slack %}
+    {% for i in page.slack %}
+      <div class="social-icon slack">
+        <div class="icon-container">
+          <img src="assets/svg/slack.svg" alt="Slack Icon" />
+        </div>
+        <div class="separator"></div>
+        <a href="https://{{ i }}.slack.com" target="_blank">{{ i }}</a>
+      </div>
+    {% endfor %}
+  {% endif %}
+
 </div>

@@ -10,4 +10,5 @@ twitch.svg		=> https://www.svgrepo.com/download/109411/twitch.svg
 matrix.svg 		=> https://www.svgrepo.com/download/330901/matrix.svg
 tiktok.svg 		=> https://www.svgrepo.com/download/349530/tiktok.svg
 reddit.svg 		=> https://www.svgrepo.com/download/452094/reddit.svg
+slack			=> https://worldvectorlogo.com/downloaded/slack-new-logo
 site.svg 		=> https://www.svgrepo.com/download/503094/site.svg
